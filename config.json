@@ -1,6 +1,7 @@
 {
-  "server": "your.mastodon.server",
+  "server": "mastodon.awesomeshee48.ca",
   "home-timeline-length": 200,
   "max-followings": 80,
+  "max-followers": 80,
   "from-notifications": 1
 }
